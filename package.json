@@ -1,0 +1,19 @@
+{
+  "name": "amitnavindgi",
+  "version": "1.0.0",
+  "description": "me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitnavindgi/npm-amitnavindgi.git"
+  },
+  "author": "Amit Navindgi <amitnavindgi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amitnavindgi/npm-amitnavindgi/issues"
+  },
+  "homepage": "https://github.com/amitnavindgi/npm-amitnavindgi#readme"
+}
